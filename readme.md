@@ -20,7 +20,7 @@ This is a "junior developer" agent (aka `smol dev`) that either:
 1. scaffolds an entire codebase out for you once you give it a product spec
 2. gives you basic building blocks to have a smol developer inside of your own app.
 
-Instead of making and maintaining specific, rigid, one-shot starters, like `create-react-app`, or `create-nextjs-app`, this is basically is or helps you make [`create-anything-app`](https://news.ycombinator.com/item?id=35942352) where you develop your scaffolding prompt in a tight loop with your smol dev.
+Instead of making and maintaining specific, rigid, one-shot starters, like `create-react-app`, or `create-nextjs-app`, this basically is or helps you make [`create-anything-app`](https://news.ycombinator.com/item?id=35942352) where you develop your scaffolding prompt in a tight loop with your smol dev.
 
 After the [successful initial v0 launch](https://twitter.com/swyx/status/1657578738345979905), smol developer was rewritten to be **even smol-ler**, and importable from a library!
 
